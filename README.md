@@ -1,0 +1,2 @@
+# Project-Data-Analyst-Hotel-Reservation-Cancellation-Analysis-
+The hospitality industry faces challenges in managing booking cancellations, which can directly impact hotel occupancy and revenue. This project analyzes historical hotel reservation data to identify cancellation patterns and customer characteristics, and presents the insights through an interactive dashboard to support data-driven decision making.
